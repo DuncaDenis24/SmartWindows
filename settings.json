@@ -1,0 +1,24 @@
+{
+    "admin_user": "admin",
+    "admin_pass": "admin123",
+    "rooms": {
+        "Camera 101": {
+            "co2_limit": 1000,
+            "temp_limit": 25.0,
+            "hum_limit": 60,
+            "username": "student1",
+            "password": "parola1"
+        },
+        "Camera 102": {
+            "co2_limit": 1200,
+            "temp_limit": 24.0,
+            "hum_limit": 60,
+            "username": "student2",
+            "password": "parola2"
+        }
+    },
+    "last_city": "Bucharest",
+    "last_out_temp": 20.8,
+    "last_out_hum": 54,
+    "last_out_co2": 415
+}
